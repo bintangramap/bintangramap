@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bintangramap
 - 👀 I’m interested in ... ui/ux
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... i'm looking for ui ux
+- 💞️ I’m looking to collaborate on ... in terms of design
+- 📫 How to reach me ... on insta @ bxntqng
 
 <!---
 bintangramap/bintangramap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
